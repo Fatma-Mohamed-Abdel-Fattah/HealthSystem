@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/960da8e2-2481-4a6c-b4c4-34bc990086d3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/health-tracking-system",
+    "appService.deploySubpath": "."
+}

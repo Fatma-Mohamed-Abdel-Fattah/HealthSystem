@@ -1,0 +1,1 @@
+mongodb://cool:KAvu8R5G65H9XeFM@ac-xyntvnr-shard-00-00.gjo5vdy.mongodb.net:27017,ac-xyntvnr-shard-00-01.gjo5vdy.mongodb.net:27017,ac-xyntvnr-shard-00-02.gjo5vdy.mongodb.net:27017/?replicaSet=atlas-aj5jt3-shard-0&ssl=true&authSource=admin
